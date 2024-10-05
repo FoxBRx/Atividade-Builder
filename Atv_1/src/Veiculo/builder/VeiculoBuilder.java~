@@ -1,0 +1,13 @@
+package Veiculo.builder;
+
+import Veiculo.entidades.Veiculo;
+
+public class VeiculoBuilder {
+
+    private Veiculo veiculo = new Veiculo();
+
+    
+
+
+
+}
